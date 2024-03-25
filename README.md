@@ -1,8 +1,8 @@
 # Descripción 📂
 El juego del ahorcado con una interfaz sencilla creado en HTML5, CSS3 y JavaScript
 
-#Autor
+# Autor✒️
 Carlos Miguel
 
-#Contacto
+# Contacto📞
 carlosmiguelgarcesbasulto@gmail.com
